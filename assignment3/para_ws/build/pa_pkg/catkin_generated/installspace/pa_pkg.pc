@@ -1,0 +1,8 @@
+prefix=/home/hayashi/para_ws/install
+
+Name: pa_pkg
+Description: Description of pa_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hayashi/para_ws/install/lib 
+Requires: 

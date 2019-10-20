@@ -1,0 +1,2 @@
+pa_pkg
+-DCATKIN_DEVEL_PREFIX=/home/hayashi/para_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hayashi/para_ws/install -G Unix Makefiles
