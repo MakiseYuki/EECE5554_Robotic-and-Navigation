@@ -1,0 +1,15 @@
+package gps;
+
+struct lab1_t
+{
+
+	double   timestamp;
+    	double   latitude;
+    	string   lat_direction; 
+    	double   longitude;
+    	string   long_direction;
+    	double   altitude;
+    	double   utmeasting;
+    	double   utmnorthing;
+
+}

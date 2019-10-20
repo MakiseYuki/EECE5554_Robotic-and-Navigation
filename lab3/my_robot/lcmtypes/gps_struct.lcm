@@ -1,0 +1,11 @@
+package lab3gps_imu;
+
+struct gps_t
+{
+    double  timestamp;
+    double   altitude;
+    double   utm_x; 
+    double  utm_y;
+    double  lat;
+    double   lon;
+}
